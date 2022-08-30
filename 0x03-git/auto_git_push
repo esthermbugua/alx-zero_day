@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Hot fix"
+git commit -m "How to be up to date in git"
 git push
