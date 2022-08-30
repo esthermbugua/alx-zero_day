@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "updated files"
+git commit -m "Starting to code today, so cool"
 git push
